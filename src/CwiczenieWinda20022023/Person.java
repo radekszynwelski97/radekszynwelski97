@@ -1,6 +1,8 @@
+package CwiczenieWinda20022023;
+
 public class Person {
-    private int id ;
-    private int weight ;
+    int id ;
+    int weight ;
 
     public Person(int id, int weight) {
         this.id = id;

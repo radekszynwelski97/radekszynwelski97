@@ -1,3 +1,7 @@
+package CwiczenieWinda;
+
+import CwiczenieWinda.Person;
+
 public class Elevator {
 
     private Person[] people = new Person[4];
